@@ -15,5 +15,12 @@ This repository contains tasks completed as part of the **Data Science & Analyti
 - Tools: Python, Pandas, Matplotlib, Seaborn
 - Folder: `Task_2_Customer_Retention`
 
+  ### Task 3: Marketing Campaign Performance Analysis
+- Analyzed campaign performance using CTR, Conversion Rate, and ROI
+- Identified high-performing channels and target audiences
+- Provided actionable recommendations to optimize marketing spend
+- Tools: Python, Pandas, Matplotlib, Seaborn
+
+
 ## Author
 **Shaik Rehan**
